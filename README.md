@@ -37,7 +37,7 @@ Environment: Google Colaboratory (Colab) with GPU acceleration.
 </p>
 
 📂 Dataset
-The model was trained on a curated subset of the famous Stanford Dogs Dataset, containing images for 70 distinct dog breeds.
+The model was trained on a curated subset of the famous [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset), containing images for 70 distinct dog breeds.
 
 The data was preprocessed and structured as follows:
 
